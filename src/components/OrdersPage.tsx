@@ -1,6 +1,6 @@
 import { useAuthStore } from '@/store/authStore';
 import { useOrderStore, OrderStatus } from '@/store/orderStore';
-import { Badge } from '@/components/ui/badge';
+import { Badge } from '@/components/ui/Badge';
 
 const statusColors: Record<OrderStatus, string> = {
   pending: 'bg-yellow-100 text-yellow-800',

@@ -1,4 +1,4 @@
-import { Button } from '@/components/ui/button';
+import { Button } from '@/components/ui/Button';
 import { useProductFilter } from '@/hooks/useProductFilter';
 import { ProductCard } from './ProductCard';
 import { Product } from '@/types';
