@@ -1,5 +1,5 @@
 import { useCartStore } from '@/store/cartStore';
-import { Button } from '@/components/ui/button';
+import { Button } from '@/components/ui/Button';
 import { Trash2, Minus, Plus } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
